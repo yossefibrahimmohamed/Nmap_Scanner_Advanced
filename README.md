@@ -39,7 +39,7 @@ A powerful web-based network scanner built with Flask that leverages Nmap to per
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/advanced-nmap-website-scanner.git
+   git clone https://github.com/yossefibrahimmohamed/Nmap_Scanner_Advanced.git
    cd advanced-nmap-website-scanner
    ```
    
